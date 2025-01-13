@@ -1,12 +1,12 @@
 {
-  "name": "fcc package.json",
+  "name": "Managing Packages with NPM",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "NATHANIEL JOHN AGANG",
-  "license": "ISC",
-  "description": ""
+  "author": "Nathaniel John Agang",
+  "license": "ISC"
 }
